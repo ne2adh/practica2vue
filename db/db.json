@@ -1,0 +1,71 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "Electrónica",
+      "descripcion": "Dispositivos y accesorios electrónicos"
+    },
+    {
+      "id": 2,
+      "nombre": "Hogar",
+      "descripcion": "Artículos para el hogar y decoración"
+    },
+    {
+      "id": 3,
+      "nombre": "Deportes",
+      "descripcion": "Equipo y accesorios deportivos"
+    },
+    {
+      "id": 4,
+      "nombre": "Ropa",
+      "descripcion": "Prendas de vestir y accesorios de moda"
+    },
+    {
+      "id": 5,
+      "nombre": "Libros",
+      "descripcion": "Libros físicos y electrónicos"
+    }
+  ],
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Auriculares Bluetooth",
+      "precio": 59.99,
+      "stock": 25,
+      "categoriaId": 1,
+      "descripcion": "Auriculares inalámbricos con cancelación de ruido"
+    },
+    {
+      "id": 2,
+      "nombre": "Lámpara de mesa",
+      "precio": 34.99,
+      "stock": 50,
+      "categoriaId": 2,
+      "descripcion": "Lámpara LED con diseño moderno"
+    },
+    {
+      "id": 3,
+      "nombre": "Pelota de fútbol",
+      "precio": 19.99,
+      "stock": 100,
+      "categoriaId": 3,
+      "descripcion": "Pelota de fútbol profesional tamaño 5"
+    },
+    {
+      "id": 4,
+      "nombre": "Camiseta deportiva",
+      "precio": 24.99,
+      "stock": 60,
+      "categoriaId": 4,
+      "descripcion": "Camiseta transpirable para actividades deportivas"
+    },
+    {
+      "id": 5,
+      "nombre": "Libro: Introducción a TypeScript",
+      "precio": 29.99,
+      "stock": 15,
+      "categoriaId": 5,
+      "descripcion": "Guía completa para aprender TypeScript desde cero"
+    }
+  ]
+}
